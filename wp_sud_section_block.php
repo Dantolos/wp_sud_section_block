@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Wp Sud Section Block
+ * Plugin Name:       SUD | Section Block
  * Description:       Example block scaffolded with Create Block tool.
  * Requires at least: 6.1
  * Requires PHP:      7.0
